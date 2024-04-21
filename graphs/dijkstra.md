@@ -59,3 +59,10 @@ public:
   };
 }
 ```
+
+## Resources
+
+|                                                       Link                                                        | Type  | Language |
+| :---------------------------------------------------------------------------------------------------------------: | :---: | :------: |
+| [Dijkstra's Algorithm - Single Source Shortest Path - Greedy Method](https://www.youtube.com/watch?v=XB4MIexjvY0) | Video |    🇺🇸    |
+|      [Implementing Dijkstra's Algorithm with a Priority Queue](https://www.youtube.com/watch?v=CerlT7tTZfY)       | Video |    🇺🇸    |
