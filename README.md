@@ -7,3 +7,4 @@ Welcome to my `Data Structures and Algorithms` notes. Here you will find a colle
 | Topic              | Description                            |
 | ------------------ | -------------------------------------- |
 | [Graphs](./graphs) | Algorithms for graphs (Dijkstra, etc.) |
+| [Trees](./tress)   | Algorithms for trees (BFS, etc.)       |
